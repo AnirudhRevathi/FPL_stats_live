@@ -1,4 +1,5 @@
 Project Summary
+
 Created an interactive Fantasy Premier League statistics tool that retrieves real-time player data and displays filtered results based on position and team selection. This application helps users make data-driven decisions when drafting players for their fantasy teams by providing key stats like player costs, total points, goals scored, assists, and clean sheets in a user-friendly interface.
 Technical Skills Demonstrated:
 
